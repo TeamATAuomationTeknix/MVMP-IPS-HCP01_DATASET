@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3_500_Sandeep_Sir</folder>
+	<filename>1142.jpg</filename>
+	<path>D:\dataset_06_11_19\Clip 1\cleared\3_500_Sandeep_Sir\1142.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1081</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Clip1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>381</xmin>
+			<ymin>446</ymin>
+			<xmax>534</xmax>
+			<ymax>705</ymax>
+		</bndbox>
+	</object>
+</annotation>
