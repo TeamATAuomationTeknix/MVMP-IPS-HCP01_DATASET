@@ -1,0 +1,26 @@
+<annotation>
+	<folder>4</folder>
+	<filename>silver_0087.png</filename>
+	<path>Z:\Mahindra Data\Silver Clip\4\silver_0087.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SilverClip</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>456</xmin>
+			<ymin>85</ymin>
+			<xmax>601</xmax>
+			<ymax>644</ymax>
+		</bndbox>
+	</object>
+</annotation>
