@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tejas_500</folder>
+	<filename>409.jpg</filename>
+	<path>C:\Tejas_Software\Image_Classification_Mobile_App\MxNet learning\YOLOv3\Dataset\Dataset_08_10_19\Tejas_500\409.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1081</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Clip1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>513</xmin>
+			<ymin>440</ymin>
+			<xmax>690</xmax>
+			<ymax>773</ymax>
+		</bndbox>
+	</object>
+</annotation>
