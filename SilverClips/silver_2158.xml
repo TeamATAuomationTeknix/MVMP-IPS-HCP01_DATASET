@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_imgs</folder>
+	<filename>220.jpg</filename>
+	<path>/home/tejas-kuthe/Documents/TF_files/Dataset/test_imgs/220.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5595</width>
+		<height>5600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SilverClip</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1226</xmin>
+			<ymin>2341</ymin>
+			<xmax>4135</xmax>
+			<ymax>3233</ymax>
+		</bndbox>
+	</object>
+</annotation>
